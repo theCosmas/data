@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.wrapper{
+	width: 1170px;
+	margin: auto;
+}
+
+header{
+	background-image: url("IMG/images.jpg");
+	height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+
+}
